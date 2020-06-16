@@ -16,6 +16,8 @@ Clone the repository and follow these steps:
 5. Run MaskDetection.py - this will take the frames from the video call and apply mask detection using ImageAI. 
 6. The output i.e. mask/nomask will be displayed in the terminal where you run MaskDetection.py along with the probability of there being a mask/nomask.
 
+***Note:-** I have used the chromedriver for Windows Chrome Browser version 83, please download a suitable chromedriver for your Chrome browser version, and OS respectively.*
+
 # Sample Input and Output
 **Input**
 
