@@ -16,3 +16,6 @@ Clone the repository and follow these steps:
 5. Run MaskDetection.py - this will take the frames from the video call and apply mask detection using ImageAI. 
 6. The output i.e. mask/nomask will be displayed in the terminal where you run MaskDetection.py along with the probability of there being a mask/nomask.
 
+# Sample Input and Output
+![input image] in.png
+
