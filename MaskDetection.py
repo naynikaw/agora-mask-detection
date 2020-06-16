@@ -2,7 +2,7 @@ from agora_community_sdk import AgoraRTC
 from imageai.Prediction.Custom import CustomImagePrediction
 import os
 
-client = AgoraRTC.create_watcher("f5269ffba1504699bbd91d455074e8d5", "chromedriver.exe")
+client = AgoraRTC.create_watcher("<insert app id here>", "chromedriver.exe")
 client.join_channel("naynika")
 
 users = client.get_users() # Gets references to everyone participating in the call
