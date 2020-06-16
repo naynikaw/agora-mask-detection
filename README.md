@@ -17,5 +17,9 @@ Clone the repository and follow these steps:
 6. The output i.e. mask/nomask will be displayed in the terminal where you run MaskDetection.py along with the probability of there being a mask/nomask.
 
 # Sample Input and Output
-![input image] in.png
+**Input**
+![in](https://user-images.githubusercontent.com/42168952/84763407-c4125d00-afe9-11ea-94d7-43d3b75cea8d.png)
+
+**Output**
+![Screenshot (183)](https://user-images.githubusercontent.com/42168952/84763706-43079580-afea-11ea-8336-2da1bcdfa289.png)
 
