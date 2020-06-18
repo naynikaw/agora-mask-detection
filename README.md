@@ -12,7 +12,7 @@ Clone the repository and follow these steps:
 1. Create an account on [agora.io](https://dashboard.agora.io). From the project manager create a new project and use the given app ID for this video call.
 2. Open MaskDetection.py and paste your app ID over there along with a suitable channel name.
 3. I have used a custom model that I trained myself, using ImageAI's custom prediction class following [these steps.](https://imageai.readthedocs.io/en/latest/custom/index.html). Download this model [here.](https://drive.google.com/file/d/1c0wq04EjRkhozQtOE7u73R4XtdbpVSVJ/view?usp=sharing)
-4. Now open a sample agora video call [channel](http://sidsharma27.github.io) and paste the same app ID and channel name (as point 2) over there and click join
+4. Now open a sample agora video call [channel](https://webdemo.agora.io/agora-web-showcase/examples/Agora-Web-Tutorial-1to1-Web/?_ga=2.190945122.959447656.1592323129-455898094.1584986724) and paste the same app ID and channel name (as point 2) over there and click join
 5. Run MaskDetection.py - this will take the frames from the video call and apply mask detection using ImageAI. 
 6. The output i.e. mask/nomask will be displayed in the terminal where you run MaskDetection.py along with the probability of there being a mask/nomask.
 
